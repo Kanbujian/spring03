@@ -22,6 +22,8 @@
     return this.username.equals(u1.getUsername());   
   }
   
+4.css js images等静态资源应在webroot文件夹下面，与WEB-INF同级  
+  
   
 
   
